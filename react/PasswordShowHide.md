@@ -1,6 +1,8 @@
-# PasswordShowHide.jsx
+# Show and hide password in React
 
-## Code
+* **Blog post**: https://edvins.io/show-and-hide-password-in-react/
+
+## Snippet
 
 ```jsx
 import React, { Component } from "react";
